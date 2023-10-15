@@ -1,0 +1,75 @@
+{
+    "categories": [
+        {
+            "name": "Fruits",
+            "subcategory": [
+                "Wedding & Event",
+                "Tops & Sets",
+                "Watches"
+            ]
+        },
+        {
+            "name": "Vegetables",
+            "subcategory": [
+                "Outwear & Jackets",
+                "Formal Dress",
+                "Accessories"
+            ]
+        },
+        {
+            "name": "Leaf Vegetables",
+            "subcategory": [
+                "Laptop",
+                "Gaming PC",
+                "Official Equipment"
+            ]
+        },
+        {
+            "name": "Coriander leaves",
+            "subcategory": [
+                "Cars",
+                "Bikes"
+            ]
+        },
+        {
+            "name": "Pumpkin leaves",
+            "subcategory": [
+                "Shoes & Bags",
+                "Baby Clothing",
+                "Girls Toys"
+            ]
+        },
+        {
+            "name": "Carrot",
+            "subcategory": [
+                "Cycling",
+                "Sneakers",
+                "Swimming"
+            ]
+        },
+        {
+            "name": "Brinjal",
+            "subcategory": [
+                "Necklace",
+                "Gold",
+                "Earing"
+            ]
+        },
+        {
+            "name": "Tomato",
+            "subcategory": [
+                "Smartphone",
+                "Tablets",
+                "Accessories"
+            ]
+        },
+        {
+            "name": "Potato",
+            "subcategory": [
+                "Sofa",
+                "Bed",
+                "Home Textile"
+            ]
+        }
+    ]
+}
